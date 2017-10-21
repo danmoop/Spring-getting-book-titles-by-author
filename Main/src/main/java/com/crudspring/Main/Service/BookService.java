@@ -12,7 +12,7 @@ public class BookService
     private List<Book> allBooks = Arrays.asList(
             new Book("Angels & Demons", "Dan Brown", 2000),
             new Book("Harry Potter", "J K Rowling", 1998),
-            new Book("Fahrenheit 451", "Ray Bradburry", 1950)
+            new Book("Fahrenheit 451", "Ray Bradbury", 1950)
     );
 
     public List<Book> getAllBooks()
